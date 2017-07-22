@@ -8,7 +8,7 @@ title:               Ahoy
 tagline:             'Data-inspired'
 description:         'Feel free to drop me suggesstions. You can find my contact info below in the About Me section.'
 url:                 http://lanyon.getpoole.com
-baseurl:             ''
+baseurl:             '/'
 paginate:            5
 
 # About/contact
