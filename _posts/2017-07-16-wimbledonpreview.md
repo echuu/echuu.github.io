@@ -89,7 +89,7 @@ Going into the final, Federer will have spent just under 10 hours on the court, 
 
 *Federer's match statistics leading up to the final are shown on the right in green, Cilic's on the left in purple. Note that the values are normalized across each row, so the length of the bar is relative to the values in that row, hence the bar for Federer's 60 aces being shorter than the bar for his 10 double faults.*
 
- ![ImageAltText](/player_stats.png)
+ ![ImageAltText](/img/player_stats.png)
 
 The name of the game for Cilic is his serve and his ability to win easy points with a 1-2 punch that works so well on Wimbledon’s grass. However, in order to maximize his chances of defeating the goliath at the other end of the court, he will need to maintain his break point conversion rate that has seen him through to his first Wimbledon final. In 2017, Cilic has been converting 33% of the break points he’s created, but this fortnight, he has brought this number to 43%, topping Federer’s 39%. Cilic will need to rise the occasion once more and produce similar numbers, as Federer has been playing lights out thus far, having not conceded a single set. 
 
@@ -226,7 +226,7 @@ The only aspect of his game that is lacking is his break point conversion, which
 
 *Federer's 1st serve points won has stabilized around 80% over the past 5-6 years. His return points won and break point conversion rate have both climbed a few percentage points this year.*
 
- ![ImageAltText](/stat_year.png)
+ ![ImageAltText](/img/stat_year.png)
 
 With all this being said, the championship match is *Federer’s to lose.* As long as Federer continues to play as well as he has, there is no reason not to believe that he will hoist his 19th grand slam trophy today. For Cilic to win, he must:
 
